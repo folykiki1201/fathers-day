@@ -25,7 +25,7 @@ body {
   font-family: var(--body-font);
   background:
     linear-gradient(rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0.22)),
-    url("assets/floral-bg.png") center / cover no-repeat,
+    url("assets/floral-bg.jpg") center / cover no-repeat,
     linear-gradient(135deg, var(--sky), var(--butter) 54%, var(--leaf));
 }
 
